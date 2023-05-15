@@ -12,5 +12,3 @@ async function detailMovie(id, callback) {
     .then((response) => response.json())
     .then((data) => callback(data));
 }
-
-export { getData, detailMovie };

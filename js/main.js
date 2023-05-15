@@ -1,4 +1,3 @@
-import { getData, detailMovie } from "./fetch.js";
 window.addEventListener("DOMContentLoaded", () => {
   //_____MAIN_____//
   //navbar on scroll
